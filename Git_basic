@@ -1,0 +1,14 @@
+	• Git is a versioning Tool - it gives the details of all the activities done on a resource even fetch them.
+	• :git init -> execute it in the folder which you want the git to do version control.
+	• .git is hidden inside that folder
+	• The folder where we executed git init will allow us to run git commands and access through terminal as well
+	• Branch - the folder we initiated is the master/main branch. When we create a new branch - it also has the contents of the main branch.
+	• Commit - making the changes to the staged file. Before committing we have to add the file to the staging location/repo
+	• Git add make the untrackable file staged.
+	• Once it is added it can be committed. It will make the file trackable.
+	• To commit delete also you have to add and then commit to delete it permanently.
+	• We can revert the deleted file by using its hash id.
+	• By default the git folder in local is called master. 
+	• In Github it is called origin/main.
+	• To publish my local commit to github execute push
+	• To get the changes from github to local use git pull
